@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto-GIS-REACT/static/css/main.e63c73da.css",
+    "main.js": "/proyecto-GIS-REACT/static/js/main.6bb75d99.js",
+    "index.html": "/proyecto-GIS-REACT/index.html",
+    "main.e63c73da.css.map": "/proyecto-GIS-REACT/static/css/main.e63c73da.css.map",
+    "main.6bb75d99.js.map": "/proyecto-GIS-REACT/static/js/main.6bb75d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63c73da.css",
+    "static/js/main.6bb75d99.js"
+  ]
+}
